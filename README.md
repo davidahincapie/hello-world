@@ -1,6 +1,7 @@
 # hello-world
-first repository
+1st repository
+This is just practice.
 
-Hello,
+Greetings,
 
 I am David, I am new to github, I am just making myself more fimilar with it.
